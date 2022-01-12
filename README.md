@@ -1,5 +1,5 @@
 # Projeto Google Glass
-Status: Em andamento
+Status: Concluído
 
 📝 Descrição:
 
